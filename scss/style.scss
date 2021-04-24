@@ -1,0 +1,11 @@
+@import 'libs/normalize.scss';
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@400;700&display=swap');
+
+.container {
+    width: 1500px;
+    margin: 0 auto;
+    font-family: 'Playfair Display SC', serif;
+}
+
+@import 'block/products';
+@import 'block/contact';
